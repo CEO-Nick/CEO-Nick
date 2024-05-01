@@ -1,12 +1,12 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&fontColor=FFFFFF&height=250&text=UU's%20GitHub&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=welcome%20my%20GitHub)-->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:96fbc4,100:f9f586&height=250&text=UU's%20GitHub&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=welcome%20my%20GitHub)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:96fbc4,100:f9f586&height=250&text=Ikheyon's%20GitHub&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=welcome%20my%20GitHub)
 
 <p align="center"> 배우는 것을 멈추지 않는 개발자, 조익현입니다 👩‍💻</p>
 
 <div align=center>
 	
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=50&duration=3000&pause=1000&color=96fbc4&center=true&vCenter=true&repeat=false&random=false&width=800&height=100&lines=Hello%2C+I'm+Back-End+Developer+YU+JEONG+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=50&duration=3000&pause=1000&color=96fbc4&center=true&vCenter=true&repeat=false&random=false&width=800&height=100&lines=Hello%2C+I'm+Back-End+Developer+CHO+IKHYEON+!)](https://git.io/typing-svg)
 </div>
 
 <div align=center>
