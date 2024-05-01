@@ -73,7 +73,7 @@
 	<p>📌 my github stats 📌</p>
 	<a href="https://github.com/CEO-Nick/">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CEO-Nick&show_icons=true&theme=default&hide_border=true&bg_color=20232a&icon_color=f9f586&text_color=f9f586&title_color=96fbc4&include_all_commits=true&count_private=true"/> 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oU-Ua&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=20232a&icon_color=f9f586&text_color=f9f586&title_color=96fbc4"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CEO-Nick&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=20232a&icon_color=f9f586&text_color=f9f586&title_color=96fbc4"/>
 </a>
 
 
@@ -81,7 +81,7 @@
   <br>
   
   
-  [![UU_jeong's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CEO-Nick&bg_color=20232a&color=f9f586&title_color=96fbc4&line=f9f586&point=96fbc4)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![IkHyeon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CEO-Nick&bg_color=20232a&color=f9f586&title_color=96fbc4&line=f9f586&point=96fbc4)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 
