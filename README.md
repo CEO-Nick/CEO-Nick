@@ -1,6 +1,6 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&fontColor=FFFFFF&height=250&text=UU's%20GitHub&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=welcome%20my%20GitHub)-->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:96fbc4,100:f9f586&height=250&text=Ikheyon's%20GitHub&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=welcome%20my%20GitHub)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:96fbc4,100:f9f586&height=250&text=IkHeyon's%20GitHub&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=welcome%20my%20GitHub)
 
 <p align="center"> 배우는 것을 멈추지 않는 개발자, 조익현입니다 👩‍💻</p>
 
