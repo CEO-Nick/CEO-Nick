@@ -1,37 +1,90 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Nick's%20GITHUB&animation=fadeIn&fontColor=000000&fontSize=70" />
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 짱 개발자가 되고 싶은 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 매일 짱 개발자가 되기 위해 노력하는 개발자입니다. </div> 
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div  align= "center"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
-          <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
-          </div>
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://velog.io/@nick9999/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@nick9999/posts"> </a>
-         <a href=mailto:andantej281@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:andantej281@gmail.com"> </a>
-         <a href=https://mountain-gerbil-04e.notion.site/addaacde7b4146deb4539841becf6421?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://mountain-gerbil-04e.notion.site/addaacde7b4146deb4539841becf6421?pvs=4"> </a>
-          </div>  <br> 
-    <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCEO-Nick%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-       </div> 
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-        <div align= "center"> 
-            <img src="https://github-readme-stats.vercel.app/api?username=CEO-Nick&custom_title=CEO-Nick's%20GITHUBStat&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CEO-Nick&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/>             </div> 
-    </div>
-    
+<!--![header](https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&fontColor=FFFFFF&height=250&text=UU's%20GitHub&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=welcome%20my%20GitHub)-->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:96fbc4,100:f9f586&height=250&text=UU's%20GitHub&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=welcome%20my%20GitHub)
+
+<p align="center"> 배우는 것을 멈추지 않는 개발자, 조익현입니다 👩‍💻</p>
+
+<div align=center>
+	
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=50&duration=3000&pause=1000&color=96fbc4&center=true&vCenter=true&repeat=false&random=false&width=800&height=100&lines=Hello%2C+I'm+Back-End+Developer+YU+JEONG+!)](https://git.io/typing-svg)
+</div>
+
+<div align=center>
+	<h3>📚 Tech Stack 📚</h3>
+	<p>✨ Platforms & Languages ✨</p>
+</div>
+<div align="center">
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+</div>
+<br>
+<div align=center>
+	<p>🛠 Tools 🛠</p>
+</div>
+<div align=center>
+	<img src="https://img.shields.io/badge/Intellij-000000?style=flat&logo=intellijidea&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+</div>
+<br>
+<div align=center>
+	<p>🎨 SNS & Portfolio 🎨</p>
+</div>
+<div align=center>
+	<a href="https://velog.io/@imuu2256">
+		<img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white" />
+	</a>
+	<a href="mailto:imuu30071126@gamil.com">
+		<img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white" />
+	</a>
+<!-- 	<a href="https://www.miricanvas.com/v/12lfkjg">
+		<img src="https://img.shields.io/badge/PortFolio-F1007E?style=flat&logo=googleslides&logoColor=white" />
+	</a> -->
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+</div>
+<!--
+<div align=center>
+	<p>🏆 BOJ solved rank 🏆</p>
+	<a href="https://solved.ac/imuu"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=imuu" />
+ 	</a>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+</div>
+-->
+
+
+
+
+<div align="center">
+	<p>📌 my github stats 📌</p>
+	<a href="https://github.com/CEO-Nick/">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CEO-Nick&show_icons=true&theme=default&hide_border=true&bg_color=20232a&icon_color=f9f586&text_color=f9f586&title_color=96fbc4&include_all_commits=true&count_private=true"/> 
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oU-Ua&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=20232a&icon_color=f9f586&text_color=f9f586&title_color=96fbc4"/>
+</a>
+
+
+
+  <br>
+  
+  
+  [![UU_jeong's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CEO-Nick&bg_color=20232a&color=f9f586&title_color=96fbc4&line=f9f586&point=96fbc4)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
+
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:96fbc4,100:f9f586&customColorList=8,2,0,0,12&height=150&section=footer)
