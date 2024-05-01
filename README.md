@@ -38,10 +38,10 @@
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-	<a href="https://velog.io/@imuu2256">
+	<a href="https://velog.io/@nick9999">
 		<img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white" />
 	</a>
-	<a href="mailto:imuu30071126@gamil.com">
+	<a href="mailto:andnatej281@gamil.com">
 		<img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 <!-- 	<a href="https://www.miricanvas.com/v/12lfkjg">
