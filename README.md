@@ -26,7 +26,6 @@
 	<br>
 	<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat&logo=Apache-Kafka&logoColor=white" />
 	<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" />
-	<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white" />
 </div>
 <br>
 <div align=center>
