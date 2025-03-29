@@ -10,6 +10,13 @@
 </div>
 
 <div align=center>
+	<h3>💼 Portfolio 💼</h3>
+	<p>✨ https://mountain-gerbil-04e.notion.site/ikhyeon-portfolio ✨</p>
+</div>
+
+<br>
+
+<div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
